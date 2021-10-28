@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/lukmannm">
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lukmannm&show_icons=true&theme=onedark" />
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lukmannm&count_private=true&show_icons=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/lukmannm">
