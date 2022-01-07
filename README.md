@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend almost 7 hours listening to songs every day.
 
+Here are some project i can build:
 
+- [LazyQoutes](https://qoute.vercel.app/), [github](https://github.com/lukmannm/lazy-qoutes)
+- [Personal Blog](https://personal-blog-teal.vercel.app/), [github](https://github.com/lukmannm/personal-blog)
+- [Simple E-Commerce](https://react-redux-sooty.vercel.app/shopping), [github](https://github.com/lukmannm/react-redux)
 
 <a href="https://github.com/lukmannm">
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lukmannm&count_private=true&show_icons=true&theme=onedark" />
